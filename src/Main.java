@@ -78,7 +78,7 @@ public class Main {
 
     }
     public static void task8 () {
-        System.out.println("Задача 8");
+        System.out.println("Задача номер 8");
         var totalHours = 640;
         var personHours = 8;
         var totalNumber = totalHours / personHours;
